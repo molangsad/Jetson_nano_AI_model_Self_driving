@@ -28,3 +28,5 @@ We really appreciate any feedback related to JetBot, and also just enjoy seeing 
 * Share your project or ask a question on the [Jetson Developer Forums](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
 ## 인공신경망 학습
 
+[Train Model](notebooks/road_following/train_model.ipynb)  
+[Live Driving](notebooks/road_following/live_demo.ipynb)
